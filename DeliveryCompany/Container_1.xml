@@ -93,5 +93,27 @@
       <Weight>11</Weight>
       <Value>500</Value>
     </Parcel>
+    <Parcel>
+      <Sender xsi:type="Company">
+        <Name>Asdfg</Name>
+        <Address>
+          <Street>Viankancu jjb</Street>
+          <HouseNumber>52</HouseNumber>
+          <PostalCode>2415236S</PostalCode>
+          <City>London</City>
+        </Address>
+      </Sender>
+      <Receipient>
+        <Name>Sam</Name>
+        <Address>
+          <Street>Via sbhun</Street>
+          <HouseNumber>25</HouseNumber>
+          <PostalCode>45871 AC</PostalCode>
+          <City>Roma</City>
+        </Address>
+      </Receipient>
+      <Weight>40</Weight>
+      <Value>1530</Value>
+    </Parcel>
   </parcels>
 </Container>
